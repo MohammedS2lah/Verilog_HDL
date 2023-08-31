@@ -1,0 +1,39 @@
+1)Reduced Instruction Set Architecture (RISC): Reduce the cycles per instruction at the cost of the number of instructions per program. 
+
+For RISC's advantages:
+
+✅ These processors have simpler instructions which makes them easier to decode and execute quickly. This results in faster processing times or faster execution so they can execute instructions faster than CISC processors.
+
+✅ Lower power consumption: These processors consume less power than CISC processors, making them ideal for portable devices.
+
+
+For RISC's disadvantages:
+
+❗They require more instructions to perform complex tasks than CISC processors so more instructions are required.
+
+❗They require more memory to store the additional instructions needed to perform complex tasks so more memory usage is needed (more RAM is needed to store the assembly level instructions).
+
+
+2)Complex Instruction Set Architecture (CISC): This approach attempts to minimize the number of instructions per program but at the cost of an increase in the number of cycles per instruction. 
+
+For CISC's advantages:
+
+✅ CISC processors use complex instructions that can perform multiple operations, reducing the amount of code needed to perform a task so the code size is reduced.
+
+✅ CISC instructions are more complex, they require fewer instructions to perform complex tasks, which can result in more memory-efficient code.
+
+
+For CISC's disadvantages:
+
+❗They take longer to execute instructions because they have more complex instructions and need more time to decode them which means slower execution.
+
+❗They have more complex instruction sets, which makes them more difficult to design and manufacture (More complex design).
+
+❗They consume more power than RISC processors because of their more complex instruction sets.
+
+
+So each processor architecture is powerful in its own way. As a result, both types are exploited for different applications depending on the specific requirements of the target application, including factors such as power efficiency, performance needs, and the availability of supporting software and development tools.
+
+>For RISC Archetecture: Today’s advanced ARM devices, PICs microcontrollers, and intelligent devices such as smartphones and embedded systems use the RISC architecture since they are power-efficient, require fewer resources, and are faster.
+
+>For CISC Archetecture: The only CISC devices existent today are Intel’s series of x86 processors.
